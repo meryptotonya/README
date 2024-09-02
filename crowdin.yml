@@ -1,0 +1,4 @@
+files:
+  - source: messages.json
+    translation: '%language%/messages.json'
+    multilingual: 1
