@@ -1,2 +1,4 @@
 # README
-one two
+one=two
+
+one2:two
